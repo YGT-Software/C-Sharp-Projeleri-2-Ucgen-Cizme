@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\bin\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.exe
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\bin\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.deps.json
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\bin\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.runtimeconfig.json
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\bin\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.dll
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\bin\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.pdb
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\obj\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\obj\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\obj\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\obj\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\obj\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\obj\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.dll
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\obj\Debug\net7.0\refint\C# Projeleri 2 Üçgen Çizme.dll
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\obj\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.pdb
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\obj\Debug\net7.0\C# Projeleri 2 Üçgen Çizme.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C# Projeleri 2 Üçgen Çizme\obj\Debug\net7.0\ref\C# Projeleri 2 Üçgen Çizme.dll
